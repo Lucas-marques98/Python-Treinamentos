@@ -28,9 +28,9 @@ s = frozenset({2,2,3,3,4,4,5,5}) #frozenset / ele bloqueia o set, não podemos a
 
 print("Os Valores são",str(s))
 
-# print("o Valor de ",x) #mostra o valor de x
-# print("O tipo de x ",type(x)) #imprime o tipo da váriavel
+print("o Valor de ",x) #mostra o valor de x
+print("O tipo de x ",type(x)) #imprime o tipo da váriavel
 
-# print("A parte real e",y.real) #mostra a parte Real
-# print("A parte imaginaria e",y.imag) #mostra a parte imaginária
+print("A parte real e",y.real) #mostra a parte Real
+print("A parte imaginaria e",y.imag) #mostra a parte imaginária
 

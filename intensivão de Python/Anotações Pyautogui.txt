@@ -1,0 +1,20 @@
+pip install pyautogui ==> para instalar o pyautogui
+
+pyautogui o objetivo dele é fazer automação 
+
+Lembrando que o pyautogui.write ele não escreve caracteres especiais.
+
+pyautogui.PAUSE = 1 // um parametro para dar uma pausa de um segundo.
+
+time.sleep() ==> para dar um delay, um tempo para rodar a aplicação.
+
+import pyperclip ==> para copiar e colar
+
+pyautogui.click ==> para clicar com o Mouse
+pyautogui.write ==> para escrever um texto
+pyautogui.press ==> para pressionar um botão
+pyautogui.hotkey ==> para usar uma tecla de atalho
+pyperclip.copy ==> para copiar e colar (para colar  devemos usar o hotkey com "ctrl" , "v")
+
+pyautogui.keyDown ==> Fica Pressionado para Baixo
+pyautogui.keyUp ==> solta a tecla
