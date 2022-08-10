@@ -16,6 +16,17 @@ m=('dinheiro','viagem','sucesso') #tupla / ela é parecido com um Array mas eu n
 
 print(m)
 
+d = { #tipo dictonary / objeto
+  "nome" : "Lucas Marques",
+  "cidade" : "Não importa",
+  "exemplo" : "dictonary"
+}
+print("Valor: ",d["nome"])
+
+s = {2,2,3,3,4,4,5,5} #tipo set / ele não imprimi valores repetidos
+s = frozenset({2,2,3,3,4,4,5,5}) #frozenset / ele bloqueia o set, não podemos alterar de nenhuma forma
+
+print("Os Valores são",str(s))
 
 # print("o Valor de ",x) #mostra o valor de x
 # print("O tipo de x ",type(x)) #imprime o tipo da váriavel
