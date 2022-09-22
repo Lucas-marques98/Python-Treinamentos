@@ -1,3 +1,5 @@
+# Exercicio para criar uma lista de 10 inteiros, elaborar um programa em Python para ordenar os elementos na lista na ordem crescente.
+
 # EXERCICIO RESOLVIDO SEM NENHUM MÉTODO.
 
 nome = input('Olá digite seu nome:')
