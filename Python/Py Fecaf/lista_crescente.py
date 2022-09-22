@@ -1,5 +1,10 @@
 # EXERCICIO RESOLVIDO SEM NENHUM MÉTODO.
 
+nome = input('Olá digite seu nome:')
+
+print(f'Olá {nome} seja bem vindo(a), digite os valores abaixo')
+
+
 lista = []
 
 for n in range(0, 10):
