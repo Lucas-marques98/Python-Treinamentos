@@ -13,5 +13,5 @@ print('Está em maiúsculas?', algo.isupper())
 print('Está em minúsculas?', algo.islower())
 print('Está em capitalizada?', algo.istitle())
 
-#Toda vez que estivermos trabalhando com strings, eles tem seus métodos.
+#Toda vez que estivermos trabalhando com strings, elas tem seus métodos.
 #Métodos são todos que tem parenteses no fim.
