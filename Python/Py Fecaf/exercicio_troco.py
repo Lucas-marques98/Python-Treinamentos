@@ -48,7 +48,7 @@ else:
     if c2 != 0:
         print(c2," Nota(s) de R$ 2,00")
     if c1 != 0:
-        print(c1," Nota(s) de R$ 1,00")
+        print(c1," moeda(s) de R$ 1,00")
     if c50 != 0:
         print(c50," Moeda(s) de R$ 0,50")
     if c25 != 0:

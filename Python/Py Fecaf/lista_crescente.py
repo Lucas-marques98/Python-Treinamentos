@@ -24,7 +24,7 @@ for n in range(0, 10):
             pos += 1
 
 print('-=' * 30)
-print(f'Os valores digitados em ordem foram {lista}')
+print(f'{nome} os valores digitados em ordem foram {lista}')
 
 #EXERCICIO RESOLVIDO USANDO O MÉTODO SORTED
 
